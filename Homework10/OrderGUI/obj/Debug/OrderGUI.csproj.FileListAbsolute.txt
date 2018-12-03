@@ -1,0 +1,50 @@
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\OrderGUI.exe.config
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\OrderGUI.exe
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\OrderGUI.pdb
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EFDemo.exe
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EntityFramework.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EFDemo.pdb
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EFDemo.exe.config
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EntityFramework.xml
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.Properties.Resources.resources
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.exe
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.pdb
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\MySql.Data.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\MySql.Data.xml
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.EditForm.resources
+C:\Users\jiaxy\source\repos\ch11\OrderGUI\obj\Debug\OrderGUI.MainForm.resources
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\OrderGUI.exe.config
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\OrderGUI.exe
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\OrderGUI.pdb
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EFDemo.exe
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EntityFramework.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\MySql.Data.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EFDemo.pdb
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EFDemo.exe.config
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EntityFramework.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\MySql.Data.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.csprojAssemblyReference.cache
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.EditForm.resources
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.MainForm.resources
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.Properties.Resources.resources
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.GenerateResource.cache
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.CoreCompileInputs.cache
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.csproj.CopyComplete
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.exe
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\OrderGUI\obj\Debug\OrderGUI.pdb

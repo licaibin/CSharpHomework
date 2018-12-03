@@ -1,0 +1,36 @@
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EFDemo.exe.config
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EFDemo.exe
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EFDemo.pdb
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EntityFramework.dll
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\MySql.Data.dll
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EntityFramework.xml
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\MySql.Data.xml
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\jiaxy\source\repos\ch11\EFDemo\obj\Debug\EFDemo.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch11\EFDemo\obj\Debug\EFDemo.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch11\EFDemo\obj\Debug\EFDemo.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\ch11\EFDemo\obj\Debug\EFDemo.exe
+C:\Users\jiaxy\source\repos\ch11\EFDemo\obj\Debug\EFDemo.pdb
+C:\Users\jiaxy\source\repos\ch11\EFDemo\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EFDemo.exe.config
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EFDemo.exe
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EFDemo.pdb
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EntityFramework.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\MySql.Data.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EntityFramework.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\MySql.Data.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\obj\Debug\EFDemo.csprojAssemblyReference.cache
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\obj\Debug\EFDemo.csproj.CoreCompileInputs.cache
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\obj\Debug\EFDemo.csproj.CopyComplete
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\obj\Debug\EFDemo.exe
+C:\Users\mldl\Documents\Tencent Files\951525835\FileRecv\ch11\EFDemo\obj\Debug\EFDemo.pdb
